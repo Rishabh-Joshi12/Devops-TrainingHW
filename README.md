@@ -8,11 +8,13 @@ Job1: IF developer push to master branch then jenkins will fetch from master and
 
 
 
-
-
-
 ![job1 2](https://user-images.githubusercontent.com/64701398/81203649-d14d2c80-8fe5-11ea-91e1-12d0aee8cf63.png)
 
+
+Adding auto push as soon as developer commit.
+
+
+![git](https://user-images.githubusercontent.com/64701398/81206007-11fa7500-8fe9-11ea-86e9-ba09913f1420.png)
 
 
 
@@ -68,6 +70,7 @@ Here is the output of the two systems:
 
 
 ![outputjob2](https://user-images.githubusercontent.com/64701398/81203762-f477dc00-8fe5-11ea-803b-30a8f200703f.png)
+
 
 
 
